@@ -1,4 +1,4 @@
-var CACHE_NAME = 'covid19-pwa';
+var CACHE_NAME = 'exercise-PWA-covid19';
 var urlsToCache = [
   '/'
 ];
